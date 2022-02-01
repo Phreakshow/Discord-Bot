@@ -140,6 +140,10 @@ setInterval(() => {
       //resp.data[0].text -<---Twitter Resp for later use
       console.log(getRows.data.values[i + 1][0]);
 
+      if(resp.data[0] == undefined){
+        break;
+      }
+      
       let action = resp.data[0].text;
       tweetId = resp.data[0].id;
       console.log(tweetId);
