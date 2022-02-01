@@ -2,6 +2,9 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "16.7.0"
+  },
   "main": "./src/bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,6 +17,7 @@
   "dependencies": {
     "@discordjs/builders": "^0.5.0",
     "@discordjs/rest": "^0.1.0-canary.0",
+    "@types/node": "^17.0.14",
     "axios": "^0.24.0",
     "discord-api-types": "^0.22.0",
     "discord.js": "^13.1.0",
