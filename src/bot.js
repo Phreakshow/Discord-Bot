@@ -168,8 +168,8 @@ setInterval(() => {
                   "Last Reply ID",
                 ],
                 [
-                  "Elon Musk",
-                  "44196397",
+                  "McDomas",
+                  "71026122",
                   tweetId,
                   "Random Value",
                   "Random Value",
@@ -205,7 +205,7 @@ setInterval(() => {
                 ],
                 [
                   "Elon Musk",
-                  "44196397",
+                  "71026122",
                   null,
                   "Random Value",
                   "Random Value",
@@ -268,8 +268,8 @@ setInterval(() => {
                   "Last Reply ID",
                 ],
                 [
-                  "Elon Musk",
-                  "44196397",
+                  "McDomas",
+                  "71026122",
                   null,
                   tweetId,
                   "Random Value",
@@ -304,8 +304,8 @@ setInterval(() => {
                   "Last Reply ID",
                 ],
                 [
-                  "Elon Musk",
-                  "44196397",
+                  "McDomas",
+                  "71026122",
                   null,
                   null,
                   "Random Value",
